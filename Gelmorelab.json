@@ -53,11 +53,10 @@
       "name": "staticmeshes/LineageEffectsStaticmeshes2.usx",
       "url": "https://github.com/casper1new1-lgtm/elmorelab/raw/refs/heads/main/LineageEffectsStaticmeshes2.usx"
     },
-	{
-      "name": "systextures/LineageEffectsStaticmeshes2.usx",
-      "url": "https://github.com/casper1new1-lgtm/elmorelab/raw/refs/heads/main/LineageEffectsStaticmeshes2.usx"
-    },    
-
+    {
+      "name": "systextures/LineageEffectsTextures2.utx",
+      "url": "https://github.com/casper1new1-lgtm/harmony/releases/download/new/LineageEffectsTextures2.utx"
+    }
 
 
 	
