@@ -44,7 +44,19 @@
 	{
       "name": "system/nwindow.dll",
       "url": "https://github.com/casper1new1-lgtm/elmorelab/raw/refs/heads/main/nwindow.dll"
-    }
+    },
+	{
+      "name": "animations/LineageEffectMeshes2.ukx",
+      "url": "https://github.com/casper1new1-lgtm/elmorelab/raw/refs/heads/main/LineageEffectMeshes2.ukx"
+    },
+	{
+      "name": "staticmeshes/LineageEffectsStaticmeshes2.usx",
+      "url": "https://github.com/casper1new1-lgtm/elmorelab/raw/refs/heads/main/LineageEffectsStaticmeshes2.usx"
+    },
+	{
+      "name": "systextures/LineageEffectsStaticmeshes2.usx",
+      "url": "https://github.com/casper1new1-lgtm/elmorelab/raw/refs/heads/main/LineageEffectsStaticmeshes2.usx"
+    },    
 
 
 
