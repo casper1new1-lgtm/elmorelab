@@ -9,10 +9,6 @@
 
 	
 	
-	{
-      "name": "system/interface.u",
-      "url": "https://github.com/casper1new1-lgtm/elmorelab/raw/refs/heads/main/interface.u"
-    },
     {
       "name": "system/lineageeffect.u",
       "url": "https://github.com/casper1new1-lgtm/elmorelab/raw/refs/heads/main/lineageeffect.u"
@@ -36,14 +32,6 @@
 	{
       "name": "system/user.ini",
       "url": "https://github.com/casper1new1-lgtm/elmorelab/raw/refs/heads/main/user.ini"
-    },
-	{
-      "name": "system/Core.dll",
-      "url": "https://github.com/casper1new1-lgtm/elmorelab/raw/refs/heads/main/Core.dll"
-    },
-	{
-      "name": "system/nwindow.dll",
-      "url": "https://github.com/casper1new1-lgtm/elmorelab/raw/refs/heads/main/nwindow.dll"
     },
 	{
       "name": "animations/LineageEffectMeshes2.ukx",
